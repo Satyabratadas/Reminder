@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reminder_app</string>
+    <string name="rem">Reminder for wash hand properly</string>
+    <string name="user_types"> Select from here ->(Shopkeeper/Doctor/Normal_User)</string>
+
+
+
+    <string name="User_Name">User Name</string>
+    <string name="types">User Types</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Submit">Submit</string>
+    <string name="user">Normal user</string>
+    <string name="reminder">Select the time for remind you to wash your hand!!</string>
+    <string name="question">Ask your Question on this platform</string>
+
+</resources>
